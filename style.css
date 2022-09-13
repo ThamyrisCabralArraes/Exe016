@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* } Configuração global de CSS */
+ * {
+    height: 100%;
+ }
+
+body {
+    background-image: linear-gradient(to top, #81DECD, #02C4A1);
+}
+main {
+    background-color: white ;
+    border-radius: 20px;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+/* para cores: https://color.adobe.com/pt/explore */
