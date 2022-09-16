@@ -1,27 +1,10 @@
-@charset "UTF-8";
-/* } Configuração global de CSS */
- 
-    /* *{border: 1px red solid;} -> para saber o que n está acontecendo na pagina */
- 
-body {
-    background-image: linear-gradient(to top, #81DECD, #02C4A1);
-    height: 100vh;
+#topo {
+    background: steelblue ;
 }
-main {
-    background-color: white ;
-    border-radius: 20px;
-    width: 600px;
-    padding: 10px;
-    margin: auto;  
-    box-shadow: 5px 5px 10px black;
-    /* margin auto é para centralizar, padding é para a letra não encostar no final, box é aa sombra */
+#conteudo {
+    background: rgb(240, 140, 140);
 }
-
-h1 {
-    color: #02C4A1;
-    text-align: center;
-    text-shadow: 1px 1px 0px black;
-
+.produto {
+    background: rgb(133, 244, 133);
+    margin: 10px ;
 }
-
-/* para cores: https://color.adobe.com/pt/explore */
