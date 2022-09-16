@@ -4,7 +4,18 @@
 #conteudo {
     background: rgb(240, 140, 140);
 }
+#rodape {
+    background: rgb(211, 211, 211);
+}
+#assinatura {
+    background: rgb(238, 129, 147);
+}
 .produto {
     background: rgb(133, 244, 133);
     margin: 10px ;
+
 }
+.azul {
+    color: rgb(49, 2, 219);
+}
+/* Div é um elemento do tipo block (bloco) */
